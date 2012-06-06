@@ -1,4 +1,5 @@
 ImageProcessor
 ==============
 
-This is a C# console application that compares two similar images and outputs an image with the differences highlighted.
+ImageProcessor is a C# Console Application that compares two similar images and outputs another image with the differences highlighted.
+
