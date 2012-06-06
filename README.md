@@ -15,8 +15,8 @@ ImageProcess will compare an image ("Compare_A.jpg")...
 
 ![alt text](https://github.com/mattchoinski/ImageProcessor/raw/master/bin/Compare_B.jpg "Compare B")
 
-..and output another image with the differences highlighted:
+..and output another image with the differences highlighted ("AnalyzedImage.bmp"):
 
 ![alt text](https://github.com/mattchoinski/ImageProcessor/raw/master/bin/AnalyzedImage.bmp "Analyzed Image")
 
-With the example images above, ImageProcess created the analyzed image well within a second.
+With the example images above, ImageProcess created the analyzed image well within a second (usually under 0.15 seconds).
